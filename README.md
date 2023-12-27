@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/best-practice-for-using-system-timers-timer-in-net-c-867ab6b5027?sk=df2c03aff9a8bddbd62ce4d342d55c71" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/best-practice-for-using-timers-in-net-c" />
 
 # Best Practice for Using Timers in .NET C#
 ### How to have full control over the Timer and be able to reach 100% coverage with unit tests.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/2000/1*Xdz6gKWXrm1MkaKh_PX_Tw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_2d91b0ef589a4bd093c876206bbcf05d~mv2.png/v1/fill/w_828,h_552,al_c,q_90,enc_auto/488a99_2d91b0ef589a4bd093c876206bbcf05d~mv2.png">
 </p>
 
 <br/>
@@ -45,4 +45,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/best-practice-for-using-system-timers-timer-in-net-c-867ab6b5027?sk=df2c03aff9a8bddbd62ce4d342d55c71
+[Article]: https://www.developmentsimplyput.com/post/best-practice-for-using-timers-in-net-c
